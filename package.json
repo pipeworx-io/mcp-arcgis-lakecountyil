@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-lakecountyil",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Lake County GIS — Lake County, Illinois open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-0df4981cbe3cd692d41996705c5f661eebe76219cc079c14c7991079acbc2361",
-    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
+    "sourceHash": "v1-249b42b64bf34ef7a2fb77f00682fe8864291515fb740b785630cc7845ecdc48",
+    "sourceCommit": "93c7d52ace03a2bb9aee5e6024f6858adab0dd04"
   }
 }
